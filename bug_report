@@ -1,1 +1,8 @@
-
+<bug_report>
+<ID>"01"</ID>
+<Summary>"Страница авторизации виснет при попытке ввести пустое значение в поле пароля"</Summary>
+<Project>"VK"</Project>
+<Version>"12.11.4"</Version>
+<Severity>"Major"</Severity>
+<Priority>"Medium"</Priority>
+<Status>"Open"</Status>
